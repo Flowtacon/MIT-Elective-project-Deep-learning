@@ -1,9 +1,3 @@
-Here is the **English version** of the `README.md`, optimized for your CV and portfolio. It is structured to help managers grasp the **value** instantly and allows recruiters to spot the **tech stack** and your **problem-solving approach**.
-
-You can copy-paste the code block below directly into your file.
-
----
-
 # 🏠 Real-World Digit Recognition (SVHN) using Deep Learning
 
 ### 🎯 Project Overview (Executive Summary)
